@@ -1,6 +1,6 @@
 {
-  "name": "y-websocket",
-  "version": "3.0.0",
+  "name": "@adobe/y-websocket",
+  "version": "3.0.0-base64",
   "description": "Websockets provider for Yjs",
   "main": "./dist/y-websocket.cjs",
   "module": "./src/y-websocket.js",
